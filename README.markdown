@@ -1,4 +1,4 @@
-== Welcome to Rails test 1
+== Welcome to Rails test 2
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
